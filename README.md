@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/sourasish123/sourasish123/blob/main/edited_1.jpg)
 <h1 align="center">Hi 👋, I'm Sourasish Mondal</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
