@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sourasish-mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourasish mondal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sourasishmondal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sourasishmondal2" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sourasishmondal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sourasishmondal2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sourasish2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourasish2002" height="30" width="40" /></a>
 </p>
 
