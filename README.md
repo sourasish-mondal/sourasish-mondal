@@ -37,10 +37,9 @@ src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourasish-mondal&show_icons=true&locale=en" alt="sourasish-mondal" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourasish-mondal&" alt="sourasish-mondal" /></p> -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sourasish-mondal&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sourasish-mondal&show_icons=true&locale=en&theme=tokyonight" height="150" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourasish-mondal&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sourasish-mondal&theme=tokyonight)
+
 
 
 
