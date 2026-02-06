@@ -39,16 +39,11 @@ src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 
 <!-- Top Languages -->
-<p>
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=sourasish-mondal&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-       alt="sourasish-mondal" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sourasish-mondal&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sourasish-mondal&show_icons=true&locale=en&theme=tokyonight" height="150" />
 </p>
-<p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=sourasish-mondal&show_icons=true&locale=en&theme=tokyonight"
-       alt="sourasish-mondal" />
-</p>
+
 <p>
   <img align="center"
        src="https://github-readme-streak-stats-eight.vercel.app/?user=sourasish-mondal&theme=tokyonight"
