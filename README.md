@@ -20,7 +20,10 @@
 <a href="https://www.hackerrank.com/sourasishmondal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sourasishmondal2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sourasish2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourasish2002" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sourasishmondal" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="gfg profile" height="34" width="40" /></a>
-<a href="https://www.codingninjas.com/codestudio/profile/sourasishmondal" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-coding-ninjas-platform-for-coding-interview-preparation-logo-color-tal-revivo.png" alt="codestudio profile" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/codestudio/profile/sourasishmondal" target="_blank">
+  <img align="center" src="https://cdn.simpleicons.org/codingninjas/ff6b00" alt="codestudio profile" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
